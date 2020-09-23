@@ -6,5 +6,4 @@
 
 ### How to install
 * run `docker-compose up -d`
-* run `composer install`
 * go to browser and run `http://localhost:8282/public/index.php`
